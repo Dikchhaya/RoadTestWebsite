@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(229, 244, 219);
+    font-family: 'Roboto Condensed', sans-serif;
+    color: rgb(14, 59, 59);
+    font-size: 50px;
+    text-align: center;
+    
+}
+
+h1 {
+    font-family:'Roboto Condensed', sans-serif;
+    color: rgb(21, 58, 93);
+    font-size: 80px;
+}
